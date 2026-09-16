@@ -592,6 +592,16 @@
         window.addEventListener('DOMContentLoaded', () => {
             if (typeof window.SORA_MANIFEST !== 'undefined' && Array.isArray(window.SORA_MANIFEST.videos)) {
                 allVideos = window.SORA_MANIFEST.videos;
+                const jumpInp = document.getElementById('jumpInput');
+                if (jumpInp) {
+                    jumpInp.placeholder = `1-${allVideos.length.toLocaleString()}`;
+                    jumpInp.max = allVideos.length;
+                }
+                const meta = window.SORA_MANIFEST;
+                const stats = document.getElementById('statsBadge');
+                if (stats && meta.generatedAt) {
+                    stats.title = `Mode: ${meta.mode} | Terakhir di-index: ${meta.generatedAt}`;
+                }
                 populateFolderOptions();
                 applyFilters();
             } else {
