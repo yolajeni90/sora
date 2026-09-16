@@ -4,7 +4,7 @@
 
 ---
 
-### 🥀 Prolog: Debu-Debu Imajinasi yang Tersimpan
+### 🥀 Prolog
 
 Selamat datang di kuburan kenangan sekaligus museum digital paling sunyi di jagat GitHub.
 
