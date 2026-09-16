@@ -54,5 +54,5 @@ Seluruh struktur direktori dipertahankan sedemikian rupa, disusun rapi berurutan
 Dibuat dengan cinta, nostalgia, dan sedikit rasa kehilangan yang sok puitis.
 
 Salam hangat dari masa lampau,  
-**Lukman Zaman**  
+**RadinX**  
 *(Seorang pengelana prompt yang menolak lupa)*
