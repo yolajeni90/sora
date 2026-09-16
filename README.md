@@ -1,4 +1,4 @@
-# 🎬 The Sora Chronicles: Sebuah Monumen Digital yang Tersisa
+# 🎬 The Sora Chronicles
 
 > *"Pernah ada suatu masa ketika deretan kata mampu menjelma menjadi ilusi gerak yang bernafas... dan kita semua berdiri terperangah, seperti anak kecil yang baru pertama kali menyaksikan sihir di layar kaca."*
 
