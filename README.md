@@ -16,7 +16,7 @@ Saya mengumpulkan, mengompilasi, dan merawat puluhan ribu fragmen visual ini sej
 
 ### 🕰️ Garis Waktu yang Fana
 
-> *"Tanggal berapa tepatnya semua ini bermula? Dan tanggal berapa pula tirai panggungnya diturunkan? Jujur saja... saya lupa. Memori manusia memang rapuh, tapi biarlah file-file ini yang berbicara pada masa depan."*
+> *"Tanggal berapa tepatnya semua ini bermula? Dan tanggal berapa pula tirai panggungnya diturunkan? Jujur saja... tepatnya saya lupa, mungkin akhir 2005 sampa medio 2026. Memori manusia memang rapuh, tapi biarlah file-file ini yang berbicara pada masa depan."*
 
 Waktu terasa kabur ketika kita menghabiskan ribuan malam di depan monitor:
 - Mengetik prompt demi prompt seolah berbicara pada oracle digital.
